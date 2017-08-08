@@ -10,11 +10,14 @@ document.write(`
       </div>
       <div class="modal-body">
       <h2> The Problem </h2>
-      We needed a place to analyze and visualize all data. But doing the join and aggregate queried on mongo was a real pain. And even a query on a non-indexed field would take hours to run. 
+      Classification of Autistic and Control Patients
       <h2> The Solution </h2>
-      This was the best time to go old school. And Google had yet another awesome tool for this. Bigquery is the SQL database fully managed by google.
-      It was really a great tools to start with. Only a few knobs need to be turned to get started.
-      Soon all the data was being sent to BigQuery. Writing Standard SQL queries became a no brainer for us.
+      I am currently working as Research Assistant at Scientific Computing and Imaging Institute at University of Utah under Professor Bei Wang Phillips.
+      My work here is to apply Machine Learning and Computational Topology Techniques on medical data .
+      The data is basically from different hospitals all over USA (UCLA Medical Hospital, Utah Medical Hospital) which contains time series information of brain of different subjects. We need to classify those brain images as healthy (control) / unhealthy (autistic).
+      For this we are using computational Topology to extract important features because topology cares about underlying shape of data.
+      Then we are using Machine Learning algorithms over it.
+  
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
