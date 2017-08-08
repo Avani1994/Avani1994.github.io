@@ -1,0 +1,22 @@
+.modal-dialog {
+    width: 60%
+};
+
+.work-item p {
+    font-size: 1em;
+}
+pre code {
+    font-size: 12px;
+}
+
+#gradesGraph {
+    width: 100%
+}
+#imageServerArch {
+    margin: auto;
+    display: inherit;
+}
+
+.image.fit img {
+    height: 13em;
+}
