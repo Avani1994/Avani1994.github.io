@@ -1,5 +1,5 @@
 document.write(`
-<div id="personal-hostel" class="modal fade" role="dialog">
+<div id="ug-webpage" class="modal fade" role="dialog">
   <div class="modal-dialog">
 
     <!-- Modal content-->

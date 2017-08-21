@@ -1,5 +1,5 @@
 document.write(`
-<div id="open-ccl" class="modal fade" role="dialog">
+<div id="g-dm1" class="modal fade" role="dialog">
   <div class="modal-dialog">
 
     <!-- Modal content-->
