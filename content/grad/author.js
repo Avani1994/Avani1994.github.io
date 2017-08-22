@@ -6,7 +6,7 @@ document.write(`
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Contribution to Processing</h4>
+        <h4 class="modal-title">Predicting which Author wrote particular review.</h4>
       </div>
       <div class="modal-body">
       Author Attribution is the task of predicting which author has written particular article. 
@@ -17,7 +17,7 @@ document.write(`
       After that we used Multi Class classifiers, one vs one and one vs all for svm and achieved accuracy of around 95 %. 
       We were loosing 5%, because still there were some classes which couldn't be separated. This resulted in decrease of accuarcy. 
       As whole I learnt various issues in this project:Multi- Class Classification, Dimensionality Reduction, Importance of Features etc. 
-      <a href='https://github.com/processing/processing/issues?utf8=%E2%9C%93&q=author%3AAkarshit%20' target="_blank"> here </a>
+      <a href='' target="_blank"> here </a>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
