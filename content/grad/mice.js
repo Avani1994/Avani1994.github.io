@@ -16,7 +16,7 @@ document.write(`
       We tried to capture this pattern, which in turn helped improve early detection of pregnancy. 
       This will also help distinguishing with non-pregnant mice whose body temperature mostly is periodic and shows 4-day estrous cycle. 
       This can help making some interesting predictions about the biological processes in various species, just by analyzing the temperature data.
-      <a href='https://github.com/Avani1994/Mice_Generate_Plot_Cocycles.git' target="_blank"> here </a>
+      
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
