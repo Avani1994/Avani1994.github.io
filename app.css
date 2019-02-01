@@ -1,6 +1,6 @@
 .modal-dialog {
     width: 60%
-};
+}
 
 .work-item p {
     font-size: 1em;
@@ -20,3 +20,165 @@ pre code {
 .image.fit img {
     height: 13em;
 }
+
+.onechild{
+    margin: 0 0 30px 0;
+}
+
+.block-btn {
+    display: block;
+    width: 100%;
+    min-height: 30px;
+    color: #f2f2f2;
+    position: relative;
+    background: darkorchid;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 1px;
+    overflow: hidden;
+}
+
+.nav-wrapper {
+    position:fixed;
+    top: 0;
+    left: 0;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-align: right;
+    padding-right: 2.5%;
+    padding-left: 2.5%;
+    margin-bottom: 0.1%;
+    width: 100%;
+    line-height: 20px;
+    font-size: 14px;
+    z-index: 100;
+    margin: 0 0 0 0;
+    background-color: black;
+}
+
+.active {
+    padding-bottom: 17px;
+    border-bottom: 4px solid darkorchid;
+}
+
+
+.nav-wrapper .logo {
+    /*padding-left: 2%;*/
+    float: left;
+}
+
+.nav-wrapper ul li {
+    list-style: none;
+    display: inline-table;
+    z-index: 5;
+    /*margin: 0 0 2em 0;*/
+    padding: 1em 1em 1em 1em;
+
+}
+
+.nav-wrapper a {
+    color: white;
+    text-decoration: none;
+    margin-top: 40px;
+    /*padding: 30px;*/
+    text-align: center;
+}
+
+.nav-wrapper ul a:hover {
+    color: darkorchid;
+    padding-bottom: 11px;
+    /*border-bottom: 3px solid darkorchid;*/
+}
+
+
+.firstChild{
+    margin: 0 0 30px 0;
+}
+
+
+.areasInterest {
+    border: 1px solid darkorchid;
+    margin-right: 10px;
+    text-transform: uppercase;
+    font-weight: 500;
+    width: auto;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 1.33333em;
+    padding: 7px 18px;
+    margin-top: 0.8em;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    border-radius: 8px;
+}
+
+
+.skills {
+    color: black;
+}
+
+
+
+.progress {
+    overflow: visible;
+    height: 2px;
+    margin-bottom: 20px;
+}
+
+.progress-title {
+    display: block;
+    margin: 0 0 5px;
+    font-size: 14px;
+}
+
+.progress-bar {
+    position: relative;
+}
+
+.progress-bar.progress-bar-def {
+    background: darkorchid;
+}
+
+.progress-bar > span {
+    position: absolute;
+    display: block;
+    top: -35px;
+    right: 0;
+    font-size: 13px;
+    color: #565656;
+}
+
+.divider {
+    margin: 0;
+}
+
+.divider-gross {
+    border-top-width: 2px;
+}
+
+.profile-icon {
+    font-size: 36px;
+    color: #cf9c63;
+}
+
+.profile-title {
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+.shiftup-40{
+    margin-top: -40px;
+}
+
+.shiftup-20{
+    margin-top: -20px;
+}
+
+.module-sm {
+    padding: 70px 0;
+}
+

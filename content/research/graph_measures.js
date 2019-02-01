@@ -9,9 +9,9 @@ document.write(`
         <h4 class="modal-title">Building Library for graph Theoretical Measures</h4>
       </div>
       <div class="modal-body">
-      <h2> The Problem </h2>
+      <h3> The Problem </h3>
       Build a Library for common graph measures which takes input as adjacency matrix of a graph network and outputs the values for multiple measures
-      <h2> Explanation of Measures </h2>
+      <h3> Explanation of Measures </h3>
        1. Node Degree : Node degree is the most basic network measure. It refers to the number of connections, throughwhich a node links to the rest of network. For directed edges there are two types of degrees : in degree (incomingedges), out degree (outgoing egdes).<br>
        2. Degree Distribution : It is the probability distribution of all degrees over whole network. For random networks,degree distribution is Gaussian, since all connections are equally probable.  But for complex networks there islong tail towards high degree distribution.<br>
        3. Assortativity :  It refers to correlation between the degrees of nodes.  Positive assortativity indicates that highdegree nodes are connected to each other.<br>

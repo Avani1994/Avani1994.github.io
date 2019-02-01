@@ -6,12 +6,9 @@ document.write(`
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Web Page Recommendation System</h4>
+        <h4 class="modal-title">Implementation of Web Page Recommendation System using Content and Collaborative Filtering.</h4>
       </div>
       <div class="modal-body">
-      <h2> The Problem </h2>
-      Implementation of Web Page Recommendation System using Content and Collaborative Filtering.
-      <h2> The Solution </h2>
       Here, we have proposed a new hybrid web page recommendation system which uses content based filtering and collaborative filtering. 
       Firstly crawler is used to crawl web graph with initial seed, that is the first page target user (user for whom recommendations are to be given) visits. 
       Then content based filtering is used, which makes use of metadata of web page (generally keywords) to measure semantic similarity with the keywords of other page. 
