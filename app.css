@@ -21,6 +21,14 @@ pre code {
     height: 13em;
 }
 
+#footer .icons a {
+    color : white;
+}
+
+#footer .copyright {
+    color : white;
+}
+
 .onechild{
     margin: 0 0 30px 0;
 }
